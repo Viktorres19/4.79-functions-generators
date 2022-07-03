@@ -1,1 +1,1 @@
-# 4.79-functions-generators
+# this story about how to create and work with functions generators
